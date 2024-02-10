@@ -1,3 +1,3 @@
-module datastore
+module github.com/db-tech-uk/datastore
 
-go 1.18
+go 1.26.0
